@@ -1,0 +1,18 @@
+id: particle/tinker-app
+category: application
+icon: particle.png
+gitrepo: https://github.com/particle-iot/blueprint-tinker
+name: "Tinker"
+shortDescription: Tinker app for controlling digital and analog pins on a Particle device from the Particle Cloud
+version: 1.0.0
+language: [ "C++" ]
+cloudServices: []
+integrations: []
+hardwareDependencies:
+  - name: Particle Device (e.g., Photon, Argon, Boron)
+    link: https://store.particle.io/collections/all-products?filter.p.product_type=Development%20Boards
+description: |
+  The Tinker App provides basic functionality to interact with a Particle device's digital and analog pins.
+  Users can read and write to pins, control LEDs, and monitor sensors through the Particle Cloud functions.
+  It includes functions for digital and analog read/write capabilities, making it an ideal starting point for
+  learning how to interact with Particle hardware.
