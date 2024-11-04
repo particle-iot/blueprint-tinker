@@ -6,6 +6,7 @@ name: "Tinker"
 shortDescription: Tinker app for controlling digital and analog pins on a Particle device from the Particle Cloud
 version: 1.0.0
 language: [ "C++" ]
+models: []
 cloudServices: []
 integrations: []
 hardwareDependencies:
