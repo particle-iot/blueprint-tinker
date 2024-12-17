@@ -1,8 +1,7 @@
-id: particle/tinker-app
 slug: particle-tinker-app
 type: application
 category: "Getting started"
-expertiseLevel: ""
+expertiseLevel: "beginner"
 tags: ["analog pins", "digital pins"]
 icon: assets/particle-logo.svg
 gitrepo: https://github.com/particle-iot/blueprint-tinker
