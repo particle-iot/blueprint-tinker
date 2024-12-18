@@ -1,9 +1,9 @@
 slug: particle-tinker-app
-type: application
+type: Application
 category: "Getting started"
-expertiseLevel: "beginner"
-tags: ["analog pins", "digital pins"]
-icon: assets/particle-logo.svg
+expertiseLevel: "Beginner"
+tags: ["Analog pins", "Digital pins"]
+icon: assets/tinker.svg
 gitrepo: https://github.com/particle-iot/blueprint-tinker
 name: "Tinker"
 shortDescription: Tinker app for controlling digital and analog pins on a Particle device from the Particle Cloud
