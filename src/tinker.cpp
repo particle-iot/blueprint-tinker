@@ -22,7 +22,7 @@
  */
 
 /* Includes ------------------------------------------------------------------*/
-#include "particle.h"
+#include "Particle.h"
 #include "tinker.h"
 
 /* Function prototypes -------------------------------------------------------*/
