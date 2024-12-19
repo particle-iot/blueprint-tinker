@@ -23,7 +23,8 @@ supportedDevices:
   - name: T-SoM
   - name: E-SoM
   - name: P2
-
+webIdeLink: https://go.particle.io/shared_apps/6761fa0817af1d0255d27c9f
+webSetupLink: https://setup.particle.io/?app=particle-tinker-app
 hardwareDependencies:
   - name: Supported device
 introduction: |
