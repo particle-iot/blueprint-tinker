@@ -6,7 +6,7 @@ tags: ["Analog pins", "Digital pins"]
 icon: assets/tinker.svg
 gitrepo: https://github.com/particle-iot/blueprint-tinker
 name: "Tinker"
-shortDescription: Tinker app for controlling digital and analog pins on a Particle device from the Particle Cloud
+shortDescription: "Tinker app for controlling digital and analog pins on a Particle device from the Particle Cloud."
 version: 1.0.0
 language: [ "C++" ]
 models: []
