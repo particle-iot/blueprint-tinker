@@ -1,14 +1,14 @@
 slug: particle-tinker-app
 type: Application
-category: "Getting started"
+category: "GPIO & cloud"
 expertiseLevel: "Beginner"
-tags: ["Analog pins", "Digital pins"]
+tags: ["GPIO", "Function", "Console"]
 icon: assets/tinker.svg
 gitrepo: https://github.com/particle-iot/blueprint-tinker
 name: "Tinker"
 shortDescription: "Tinker app for controlling digital and analog pins on a Particle device from the Particle Cloud."
 version: 1.0.0
-language: [ "C++" ]
+language: ["C++"]
 models: []
 cloudServices: []
 integrations: []
